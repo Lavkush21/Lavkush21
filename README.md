@@ -1,16 +1,25 @@
-## Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Lavkush21.Lavkush21" />
 
-<!--
-**Lavkush21/Lavkush21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm **Lavkush** 👋
 
-Here are some ideas to get you started:
+**`Front‑End Developer | HTML • CSS • JavaScript | Building Beautiful Web Experiences`**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+- **Location**: Your City, India  
+- **Currently working on**: [Quotes‑Project](https://github.com/Lavkush21/Quotes-Project) & [Spotify‑Clone](https://github.com/Lavkush21/Spotify-Clone)  
+- **Learning**: React, Tailwind CSS, GitHub Actions  
+- **Ask me about**: HTML, CSS, Responsive Design  
+- **Email**: `lavkush21@example.com` *(replace with your real email)*  
+
+> *“Good design is obvious. Great design is transparent.”*
+
+---
+
+## Tech Stack
+
+```text
+Languages:   HTML • CSS • JavaScript
+Tools:       VS Code • Git • GitHub • Figma
+Learning:    React • Tailwind CSS • Bootstrap
