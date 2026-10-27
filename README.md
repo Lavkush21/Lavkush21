@@ -1,25 +1,25 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Lavkush21.Lavkush21" />
 
-# Hi, I'm **Lavkush** 👋
+# Hi, I'm Lavkush Gupta 👋
 
-**`Front‑End Developer | HTML • CSS • JavaScript | Building Beautiful Web Experiences`**
-
----
+**Java Backend Developer** | Spring Boot • Microservices • REST APIs | DSA in Java
 
 ## About Me
-- **Location**: Your City, India  
-- **Currently working on**: [Quotes‑Project](https://github.com/Lavkush21/Quotes-Project) & [Spotify‑Clone](https://github.com/Lavkush21/Spotify-Clone)  
-- **Learning**: React, Tailwind CSS, GitHub Actions  
-- **Ask me about**: HTML, CSS, Responsive Design  
-- **Email**: `lavkush21@example.com` *(replace with your real email)*  
-
-> *“Good design is obvious. Great design is transparent.”*
-
----
+- 📍 Bengaluru, India
+- 💼 Software Engineer at TapQwik (3+ years)
+- 🔨 Building: Microservices projects with Spring Boot
+- 📚 Learning: System design and advanced Spring concepts
+- 💬 Ask me about: Java, Spring Boot, REST APIs, Hibernate, MySQL
 
 ## Tech Stack
+**Languages:** Java, JavaScript
+**Backend:** Spring Boot, Spring MVC, Hibernate/JPA, Microservices, REST APIs
+**Database:** MySQL, MongoDB
+**Tools:** Git, Maven, Docker, Jenkins, Postman, IntelliJ IDEA
 
-```text
-Languages:   HTML • CSS • JavaScript
-Tools:       VS Code • Git • GitHub • Figma
-Learning:    React • Tailwind CSS • Bootstrap
+## Featured Projects
+- [Job Portal System](https://github.com/Lavkush21/-job-portal-system): multi-module microservices project
+- [Salon Booking Platform](https://github.com/Lavkush21/salon-booking-platform): Spring Boot microservices + React
+- [DSA in Java](https://github.com/Lavkush21/DSA-Leet-Code): LeetCode solutions
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/lavkush-gupta-4429482b5)
